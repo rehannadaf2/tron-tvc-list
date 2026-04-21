@@ -6,11 +6,11 @@ Follow the steps below to add a new token：
 2) change the JSON file `tokenlist.json`, adding such as: (PLEASE DO NOT REMOVE EXISITING TOKENS)
 ```
 {
-      "address": "TAFF6GnzgtCe5bRQ3TpouugquVLYkUpE9z",
-      "symbol": "WIN",
+      "address": "TEayR8c16ksKy4qSMA3nUGGLTPYaC9nBEY",
+      "symbol": "USDT",
       "name": "TetherToken",
       "decimals": 6,
-      "logoURI": "https://coin.top/profile_images/JKtJTydD_400x400.jpg",
+      "logoURI": "https://icons8.com/icon/DEDR1BLPBScO/tether",
       "homepage": "https://winklink.org/",
       "MarketCapLink": "https://coinmarketcap.com/currencies/wink/",
       "existingMarkets": [
